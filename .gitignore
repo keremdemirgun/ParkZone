@@ -2,6 +2,7 @@ backend/node_modules/
 backend/.env
 backend/config/serviceAccountKey.json
 backend/dist/
+backend/docker-compose.yml
 
 node_modules
 .env
